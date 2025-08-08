@@ -37,8 +37,7 @@ I have a strong foundation in **MERN stack development** and am expanding my exp
 ## 🌟 Goals for 2025
 - Build and deploy 3+ production-ready full-stack applications.
 - Contribute to at least 2 open-source projects.
-- Advance Kubernetes and container orchestration skills.
-- Learn new tech eg Next.js/Tailwind/Typescript
+- Advance containerization and  orchestration skills.
 
 ## 📫 Connect with Me
 Linked in Profile : www.linkedin.com/in/bilha-wambugu-3a6192213
